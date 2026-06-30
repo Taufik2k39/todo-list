@@ -1,11 +1,11 @@
-# GitHub Linguist language overrides with Nextjs(Tsx), Typescript(ts), Nodejs, PostgreSQL(sql), and Prisma(prisma)
-#without backend and frontend folder
-**/*.ts linguist-language=TypeScript
-**/*.tsx linguist-language=TypeScript
-**/*.js linguist-language=JavaScript
-**/*.jsx linguist-language=JavaScript
-**/*.css linguist-language=CSS
-**/*.html linguist-language=HTML
-**/*.sql linguist-language=SQL
-**/*.prisma linguist-language=Prisma
-**/*.json linguist-language=JSON
+# GitHub Linguist language overrides for this repository
+# Helps GitHub display the correct languages for TypeScript, Prisma, SQL, CSS, and JSON files
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+*.css linguist-language=CSS
+*.html linguist-language=HTML
+*.sql linguist-language=SQL
+*.prisma linguist-language=Prisma
+*.json linguist-language=JSON
